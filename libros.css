@@ -1,0 +1,15 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+body{
+    padding: 10px;
+    height: auto;
+    width: 80%;
+    text-align:  center;
+    text-shadow: 2px 5px 4px maroon;
+    color: black;
+    border: 3px solid red;
+    
+}
